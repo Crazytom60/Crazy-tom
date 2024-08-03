@@ -8,7 +8,7 @@ module.exports.config = {
   permssion: 0,
   credits: "Mohammad Nayan",
   description: "",
-  category: "fbcover",
+  category: "cover",
   prefix: true,
     cooldowns: 2,
 };
